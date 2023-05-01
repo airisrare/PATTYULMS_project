@@ -59,9 +59,11 @@ This was chosen because I research Grid fs, a mongo solution to storing images. 
 
 ---
 
-## Sitemap
+## Physical Diagram current status
+![image](images/PhysicalDiagram.PNG)
 
-## Wireframe
+## Navigation Diagram
+![image](images/flow.PNG)
 
 ## Aknowledgements
 
