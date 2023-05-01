@@ -33,11 +33,15 @@ React.js was chosen because it is an application I knew nothing about. Additiona
 
 ### Spring Boot
 
-Spring Boot
+Spring Boot was chosen because PATTYULMS team has used Spring boot before.
 
 ---
 
 ### Mongo & AWS S3 Bucket
+
+Mongo is a non relational relational database that holds all the data for the application
+AWS s3 bucket holds the actual image and the link is attached to the mongo object in the database.
+This was chosen because I research Grid fs, a mongo solution to storing images. However The development team decided to refuse grid fs because they researched that when adding large images, grid fs slows over time.
 
 ---Please see Sprint BackLog Template for all requirements with PATTYULMS
 
@@ -46,7 +50,7 @@ Spring Boot
 ### Uptime Robot
 
 - Uptime Robot is a very simple and easy way to star monitoring a live site. We can add the url to the website and set how often we would like to ping our endpoint. We will get an alert if the PATTYULMS site is down.
-
+- Uptime robot was not implemented as of 4-30 because cloud development has not been complete.
 ---
 
 ### Logging
