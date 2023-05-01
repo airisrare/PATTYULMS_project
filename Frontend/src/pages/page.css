@@ -1,0 +1,159 @@
+.btncolor {
+background-color: #b91a1a !important;
+border: none;
+align-items: center;
+}
+
+img {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+
+.cardstyle {
+    margin: auto;
+    margin-top: 50px ;
+    margin-bottom: 100px;
+    text-align: center;
+    width: 600px;
+    padding: 15px;
+}
+
+
+.forminputsmall {
+    padding-left: 10px;
+    padding-right: 50px;
+    width: 300px;
+}
+
+.formLabel {
+    font-weight: bold;
+}
+
+
+/* This is for each individual card component  #b9b6b6 */
+.productCardDisplay{
+    width: 500px;
+    height: 550px;
+    background-color:#fefefe;
+    display: flex;
+    margin: 20px;
+    /* box-shadow: 0px 7px 10px; */
+    box-shadow: 5px 10px 12px 8px #808182;
+    transition: 0.4s ease-in-out;
+}
+
+.productCardDisplay:hover{
+    transform: translateY(20px);
+    text-decoration: underline;
+    color: rgb(120, 198, 243);
+}
+
+/* This is for all the cards  */
+.productCardFlex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.colorLink{
+    color: rgb(72, 72, 72);
+}
+
+.inspectPhoto{
+    height: 450px;
+    width: 400px;
+    margin-left: 50px;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.inspectText{
+    font-size: 26px;
+    
+}
+
+.containerInspect{
+    box-shadow: 1px 3px 10px 5px #40403f;
+    margin: auto;
+    background-color: #ffffff;
+    margin-top: 70px;
+    margin-bottom: 90px;
+}
+
+.containerInspectUser{
+    box-shadow: 1px 3px 9px 2px #40403f;
+    width: 400px;
+    margin-top: 70px;
+    margin-bottom: 90px;
+
+    background-color: #efefef;
+}
+
+
+.conceptDisplay{
+ background-color: #ffffff;
+ margin-left: 250px;
+ margin-right: 250px;
+ margin-bottom: 70px;
+}
+
+.userCardFlex{ 
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 15px;
+    
+
+    
+}
+
+.center{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 300px;
+    box-shadow: 0px 3px 5px 1px #393d3f
+}
+
+.centerText{
+    text-align: center;
+}
+
+.centerTextWhite{
+    text-align: center;
+    color: #ffffff;
+}
+
+.usersContainer{
+  overflow: scroll;
+  margin: auto;
+  height: 650px;
+  width: 600px;
+  background-color: #a2ccd1;
+  box-shadow: 0px 3px 5px 1px #393d3f;
+  border-radius: 5px;
+  padding: auto;
+  overflow-x: hidden;
+}
+
+.usersContainer::-webkit-scrollbar{
+    display: none;
+}
+
+.addToCart{
+    
+    background-color: #365b69;
+}
+
+.conceptImage{
+    max-width: 45%;
+    height:auto;
+}
+
+
+
