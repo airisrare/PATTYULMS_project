@@ -64,7 +64,7 @@ This was chosen because I research Grid fs, a mongo solution to storing images. 
 
 ## Future Physical Diagram
 - PATTYULMS isnt done yet, the next step for PATTYULMS is to be a cloud based application.
-![image](images/futureDiagram.png)
+![image](images/futureDiagram.PNG)
 
 ## Navigation Diagram
 ![image](images/flow.PNG)
